@@ -12,9 +12,10 @@ Time spent: 6 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.1
   - [ ] GIF Walkthrough: ![Attack 1 GIF](comment_stored_xss.gif)
-  - [ ] Steps to recreate: https://klikki.fi/wordpress-4-2-core-stored-xss/
-  - [ ] Affected source code: https://core.trac.wordpress.org/changeset/32299
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [ ] Steps to recreate: 
+    - [Link 1](https://klikki.fi/wordpress-4-2-core-stored-xss/)
+  - [ ] Affected source code:
+    - [Link 1](https://core.trac.wordpress.org/changeset/32299)
 ### 2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
